@@ -1,2 +1,2 @@
 # sport-stats-backend
-Backend for getting sport statistics
+Rest backend for getting sport statistics
